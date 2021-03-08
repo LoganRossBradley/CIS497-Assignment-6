@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿/* Logan Ross
+ * Supervisor.cs 
+ * Assignment 6 
+ * Sets up abstract supervisor class for employees that have more permissions over general workers
+ */
+
+using UnityEngine;
 using System.Collections;
 
     public abstract class Supervisor: Employee

@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿/* Logan Ross
+ * Cook.cs 
+ * Assignment 6 
+ * Sets up the different tasks a cook can do
+ */
+
+using UnityEngine;
 using System.Collections;
 
 

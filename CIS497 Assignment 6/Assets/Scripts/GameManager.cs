@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿
+/* Logan Ross
+ * GameManager.cs 
+ * Assignment 6 
+ * manages all of the code for the buttons that create employees and restart the scene
+ */
+
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;

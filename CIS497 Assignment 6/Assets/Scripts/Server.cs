@@ -1,14 +1,14 @@
-﻿using UnityEngine;
+﻿/* Logan Ross
+ * Server.cs 
+ * Assignment 6 
+ * Sets up the different tasks a server can do
+ */
+
+using UnityEngine;
 using System.Collections;
 
     public class Server : GeneralWorker
     {
-    public GameObject serverPrefab;
-
-    public void createServer()
-    {
-        Instantiate(serverPrefab);
-    }
 
     public void takeOrder()
     {

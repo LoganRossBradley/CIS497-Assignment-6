@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿
+/* Logan Ross
+ * Host.cs 
+ * Assignment 6 
+ * Sets up the different tasks a Host can do
+ */
+using UnityEngine;
 using System.Collections;
 
     public class Host : GeneralWorker

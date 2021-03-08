@@ -1,3 +1,9 @@
+/* Logan Ross
+ * ShiftSupervisor.cs 
+ * Assignment 6 
+ * Sets up the overarching employee class that all employees inherit
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
